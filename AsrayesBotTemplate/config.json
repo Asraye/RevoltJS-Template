@@ -1,0 +1,5 @@
+{
+  "token": "TOKENSTUFF",
+  "prefix": "!",
+  "cooldownSeconds": 3
+}
